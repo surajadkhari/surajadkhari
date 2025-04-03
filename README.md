@@ -9,9 +9,10 @@
 - 💻 **Former Flutter Developer:** Built responsive, user-friendly mobile apps with Flutter & Dart.
 - 🔍 **Current Focus:** Researching trust in AI—exploring sociopolitical perceptions, government transparency, and cultural impact.
 - 🛠️ **Skills:**
+  - **Design:** Adobe Photoshop, Illustrator, Figma
   - **Mobile Dev:** Flutter, Dart
   - **Data Science:** Python, SQL, Data Visualization
-  - **QA Tools:** Cypress, Postman, JMeter, Burp Suite
+  - **QA Tools:** Postman, Burp Suite
 - 🧪 **Notable Projects:**
   - 🔹 [Flutter Fetch API with Dio](https://github.com/surajadkhari/flutter-fetch-api-with-dio)
   - 🔹 [Flutter Post API with HTTPS](https://github.com/surajadkhari/flutter-post-api-with-https)
@@ -34,7 +35,6 @@
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)
 ![SQL](https://img.shields.io/badge/-SQL-05122A?style=flat&logo=mysql)
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)
-![Cypress](https://img.shields.io/badge/-Cypress-05122A?style=flat&logo=cypress)
 ![Postman](https://img.shields.io/badge/-Postman-05122A?style=flat&logo=postman)
 
 ---
