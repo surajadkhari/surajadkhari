@@ -14,7 +14,7 @@
   - **Data Science:** Python, SQL, Data Visualization
   - **QA Tools:** Postman, Burp Suite
 - 🧪 **Notable Projects:**
-  - 🔹 [Flutter Fetch API with Dio](https://github.com/surajadkhari/flutter-fetch-api-with-dio)
+  - 🔹 [Excel Projects]([https://github.com/surajadkhari/flutter-fetch-api-with-dio](https://github.com/surajadkhari/Excel-Project/tree/main))
   - 🔹 [Flutter Post API with HTTPS](https://github.com/surajadkhari/flutter-post-api-with-https)
   - 🔹 [CRUD with Serverpod + Flutter](https://github.com/surajadkhari/crud_severpod_flutter)
 - 📬 **Email:** surajadkhari@gmail.com
