@@ -6,7 +6,7 @@
 
 ## 🚀 About Me
 
-- 💻 **Former Flutter Developer:** Built responsive, user-friendly mobile apps with Flutter & Dart.
+- 💻 **Flutter Developer:** Built responsive, user-friendly mobile apps with Flutter & Dart.(3 Years)
 - 🔍 **Current Focus:** Researching trust in AI—exploring sociopolitical perceptions, government transparency, and cultural impact.
 - 🛠️ **Skills:**
   - **Design:** Adobe Photoshop, Illustrator, Figma
