@@ -15,8 +15,7 @@
   - **QA Tools:** Postman, Burp Suite
 - 🧪 **Notable Projects:**
   - 🔹 [Excel Projects](https://github.com/surajadkhari/Excel-Project/tree/main)
-  - 🔹 [Flutter Post API with HTTPS](https://github.com/surajadkhari/flutter-post-api-with-https)
-  - 🔹 [CRUD with Serverpod + Flutter](https://github.com/surajadkhari/crud_severpod_flutter)
+  - 🔹 [Power BI Projects](https://github.com/surajadkhari/Power-BI-Projects)
 - 📬 **Email:** surajadkhari@gmail.com
 
 ---
