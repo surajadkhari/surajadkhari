@@ -1,22 +1,20 @@
-# 👋 Hi, I'm Surat Adhikari
+👋 Hi, I'm **Surat Adhikari**  
+🎓 A Data Science Master's student at **Charles Darwin University** with a professional background in mobile application development (Flutter) and experience in software quality assurance.
 
-🎓 A Data Science Master's student at Charles Darwin University with a professional background in **mobile application development using Flutter** and experience in software quality assurance. I'm passionate about building sleek cross-platform apps and analyzing data to solve real-world problems.
+I'm currently transitioning into the field of **data analytics** with a keen focus on building insightful dashboards, exploring real-world datasets, and solving business problems through data. This Power BI project is part of my portfolio showcasing my growing skills in DAX, data modeling, and visual storytelling.
 
 ---
 
 ## 🚀 About Me
 
-- 💻 **Flutter Developer:** Built responsive, user-friendly mobile apps with Flutter & Dart.(3 Years)
-- 🔍 **Current Focus:** Researching trust in AI—exploring sociopolitical perceptions, government transparency, and cultural impact.
-- 🛠️ **Skills:**
-  - **Design:** Adobe Photoshop, Illustrator, Figma
-  - **Mobile Dev:** Flutter, Dart
-  - **Data Science:** Python, SQL, Data Visualization
-  - **QA Tools:** Postman, Burp Suite
+- 💻 **Flutter Developer** (3 years): Built sleek, responsive cross-platform apps using Flutter & Dart  
+- 🧪 **QA & Testing Experience**: Worked with Postman, Burp Suite to ensure software quality  
+- 📊 **Current Focus**: Data analytics, storytelling with Power BI, Python, and Excel  
+- 📚 **Research**: Investigating trust in AI, government transparency, and cultural perceptions  
+- 📬 **Email**: surajadkhari@gmail.com  
 - 🧪 **Notable Projects:**
   - 🔹 [Excel Projects](https://github.com/surajadkhari/Excel-Project/tree/main)
   - 🔹 [Power BI Projects](https://github.com/surajadkhari/Power-BI-Projects)
-- 📬 **Email:** surajadkhari@gmail.com
 
 ---
 
