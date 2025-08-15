@@ -15,6 +15,7 @@ I'm currently transitioning into the field of **data analytics** with a keen foc
 - 🧪 **Notable Projects:**
   - 🔹 [Excel Projects](https://github.com/surajadkhari/Excel-Project/tree/main)
   - 🔹 [Power BI Projects](https://github.com/surajadkhari/Power-BI-Projects)
+  - 🔹 [Machine Learning](https://github.com/surajadkhari/Power-BI-Projects](https://github.com/surajadkhari/Student-Mental-Health-Risk-Prediction.git)
 
 ---
 
